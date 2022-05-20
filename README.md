@@ -20,5 +20,4 @@
 -  "08_Solar_MPPT.ino"
 -  "09_Lux_meter.ino"
 
-##### The data and figures:
-  They are stored in "Data/" where "Data/PostProcessing.mlx" should be executed.
+  The data and figures are stored in "Data/" where "Data/PostProcessing.mlx" should be executed.
