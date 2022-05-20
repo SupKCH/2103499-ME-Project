@@ -8,7 +8,7 @@
 ##### The MATLAB Live Scipt code (used to post-process collected data, and visualize to be human-understandable):
 -  "PostProcessing.mlx" or "Data/PostProcessing.mlx"
 
-##### The extra codes (used to test individual modules):
+##### The extra codes (used to test individual module):
 -  "00ax_MEGA_faster_BETA.ino"   << this file is the former version of "00axx_MEGA_Lux.ino" which was upgraded by adding a Lux meter
 -  "01_RTC.ino"
 -  "02_SD.ino"
